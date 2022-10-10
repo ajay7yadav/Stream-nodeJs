@@ -1,0 +1,3 @@
+hello ajay
+i am taking input from terminal
+# hello
